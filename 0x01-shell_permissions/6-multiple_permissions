@@ -1,0 +1,3 @@
+#!/bin/bash
+chmos 754 hello
+chmod 754 hello
